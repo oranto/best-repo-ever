@@ -1,2 +1,2 @@
 # best-repo-ever
-some new texts added!
+This is my master branch
